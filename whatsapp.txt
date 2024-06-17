@@ -9,3 +9,5 @@ AUTHOR:NIRMAL KUMAR
 3.last seen code
 
 4.attachment file
+
+5.hiding the last seen
