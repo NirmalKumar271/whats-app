@@ -11,3 +11,7 @@ AUTHOR:NIRMAL KUMAR
 4.attachment file
 
 5.hiding the last seen
+
+6.adding the audio call feature
+
+7.adding the video call features
